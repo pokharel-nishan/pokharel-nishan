@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishan Pokharel</h1>
-<h3 align="center">Full-Stack Software Engineer | Node.js | React | Microservices | AWS</h3>
+<h3 align="center">Full-Stack Software Engineer | Node.js | Nest | React | Microservices | AWS</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nishan-pokharel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 
-🔧 I’m a **Full-Stack Software Engineer** who thrives on building scalable, maintainable, and intuitive systems — from backend APIs to frontend interfaces.  
-💼 Currently contributing to **MySecondTeacher** at Innovate Tech — building education platforms using **React**, **Node.js**, and **microservices**.  
-🌍 Actively exploring cloud-native architecture and modern stacks to solve real-world problems.  
-💡 I love turning ideas into products and simplifying complex logic into clean code.
+- 🔧 I’m a **Full-Stack Software Engineer** passionate about designing and building **scalable**, **maintainable**, and **performant** systems—whether backend APIs or frontend interfaces.  
+- 🌐 Skilled in developing and integrating **RESTful APIs**, **GraphQL**, and **gRPC** to enable efficient, **real-time**, and **secure** communication between services and clients.  
+- 💾 Proficient with both **relational databases** (PostgreSQL, MySQL, Oracle) and **NoSQL databases** (MongoDB), with strong focus on **query optimization** and **data modeling** for performance.  
+- ☁️ Comfortable working with **cloud services** like **AWS S3** and containerization tools such as **Docker** for streamlined deployment and **infrastructure automation**.  
 
 ---
 
@@ -23,8 +23,8 @@
 <div align="center">
 
 #### 🔤 Programming Languages  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -82,6 +82,7 @@
 
 </div>
 
+---
 
 ### 📌 Featured Project
 
@@ -92,50 +93,30 @@
 🌐 Live Demo: [final-year-project-w7yk.onrender.com](https://final-year-project-w7yk.onrender.com)  
 💡 Features: Secure auth, custom dataset uploads, ML model training (15+ types), live testing, result visualization.
 
----
-
-### 💼 Work Highlights
-
-- 👨‍💻 **Software Engineer** at *Innovate Tech* (MySecondTeacher)  
-  Built bucket systems, bulk question import/export, upgraded React stacks, and integrated GraphQL + gRPC.
-
-- 🧠 **Backend Intern** at *Rivia Infosys*  
-  Built robust APIs for Edxplor & Hrxplor, optimized PostgreSQL performance, and containerized apps with Docker.
-
-🔗 Explore platforms I’ve contributed to:  
-- [Edxplor](https://www.edxplor.com)  
-- [Hrxplor](https://hrxplor.com)
 
 ---
 
-### 🏅 Achievements & Involvement
+### 🤝 Let’s Connect
 
-- 🎗 Volunteered in Food Donation Drives during COVID-19  
-- 🌱 Active member of **JCI Kakani** & **Rotaract Club Rudramati-Babarmahal**
-- ✍️ Currently serving as **Editor (Board Member)** in Rotaract (2025–2026)
-
----
-
-### 🤝 Let's Connect
-
-- 📬 Email: [pokharel.nishan@outlook.com](mailto:pokharel.nishan@outlook.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/nishan-pokharel)  
-- 👨‍💻 [GitHub](https://github.com/pokharel-nishan)
+- 📧 Email: [pokharel.nishan@outlook.com](mailto:pokharel.nishan@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/nishan-pokharel](https://linkedin.com/in/nishan-pokharel)  
+- 👨‍💻 GitHub: [github.com/pokharel-nishan](https://github.com/pokharel-nishan)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharel-nishan&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharel-nishan&layout=compact&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharel-nishan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharel-nishan&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharel-nishan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
 </p>
 
 ---
 
-### 💡 Why Hire Me?
-
-I bring **hands-on experience**, **modern tech expertise**, and a strong sense of **collaboration and ownership**. Whether it’s designing scalable backend systems, shipping high-quality UIs, or building secure microservices — I’m ready to contribute from day one.
 
 🧠 *“I don’t just write code — I craft solutions.”*
 
