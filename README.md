@@ -11,66 +11,120 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m a **Full-Stack Software Engineer** passionate about scalable systems, cloud-native development, and clean architecture.
-- 👨‍💻 Currently working at **Innovate Tech** on the MySecondTeacher platform using **React**, **Node.js**, **GraphQL**, **gRPC**, and **microservices**.
-- 🌱 Constantly learning new technologies to build efficient, high-performance web applications.
-- ⚡ Fun fact: I love building systems that *just work* and enjoy collaborating with cross-functional teams to turn ideas into reality.
+🔧 I’m a **Full-Stack Software Engineer** who thrives on building scalable, maintainable, and intuitive systems — from backend APIs to frontend interfaces.  
+💼 Currently contributing to **MySecondTeacher** at Innovate Tech — building education platforms using **React**, **Node.js**, and **microservices**.  
+🌍 Actively exploring cloud-native architecture and modern stacks to solve real-world problems.  
+💡 I love turning ideas into products and simplifying complex logic into clean code.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack & Tools
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+<div align="center">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) 
-![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-
-**Databases & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
-![AWS S3](https://img.shields.io/badge/-AWS_S3-black?style=flat-square&logo=amazon-aws)
-
-**Other Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
+#### 🔤 Programming Languages  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
+
+#### 🔧 Backend Development  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+
+---
+
+#### 🎨 Frontend Development  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+---
+
+#### 🌐 API Protocols & Architectures  
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-00A8E8?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC%20Architecture-6C3483?style=for-the-badge" />
+
+---
+
+#### 🧱 Databases  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+---
+
+#### ☁️ Cloud Services & DevOps  
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+
+---
+
+#### 📚 Other Tools & Frameworks  
+<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TSOA-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeORM-FCC624?style=for-the-badge&logo=typeorm&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
 
 ### 📌 Featured Project
 
 #### 🎓 [OpenML](https://github.com/pokharel-nishan/openml)  
-> A no-code Machine Learning web platform that enables users to upload datasets, preprocess, train models, and visualize results — all without writing a single line of code.
+> A no-code Machine Learning platform designed for learners and professionals — no ML expertise required!
 
-🛠 Tech Used: React 19, Node.js, FastAPI, PostgreSQL, AWS S3, Tailwind CSS  
+🛠 Tech Stack: React 19, Node.js, FastAPI, PostgreSQL, AWS S3, Tailwind CSS  
 🌐 Live Demo: [final-year-project-w7yk.onrender.com](https://final-year-project-w7yk.onrender.com)  
-🔐 Features: Secure JWT auth, custom dataset upload, feature engineering, model evaluation, result visualization.
+💡 Features: Secure auth, custom dataset uploads, ML model training (15+ types), live testing, result visualization.
 
 ---
 
-### 🏆 Achievements & Volunteering
+### 💼 Work Highlights
 
-- 🏅 **Software Engineer @ Innovate Tech**
-- 🧑‍💻 Contributed to Edxplor and Hrxplor platforms at Rivia Infosys
-- 🎗 Volunteer for COVID-19 food campaigns and active Rotaract member
-- 🎖 General & Board Member roles in JCI and Rotaract Kathmandu
+- 👨‍💻 **Software Engineer** at *Innovate Tech* (MySecondTeacher)  
+  Built bucket systems, bulk question import/export, upgraded React stacks, and integrated GraphQL + gRPC.
+
+- 🧠 **Backend Intern** at *Rivia Infosys*  
+  Built robust APIs for Edxplor & Hrxplor, optimized PostgreSQL performance, and containerized apps with Docker.
+
+🔗 Explore platforms I’ve contributed to:  
+- [Edxplor](https://www.edxplor.com)  
+- [Hrxplor](https://hrxplor.com)
 
 ---
 
-### 📊 GitHub Stats
+### 🏅 Achievements & Involvement
+
+- 🎗 Volunteered in Food Donation Drives during COVID-19  
+- 🌱 Active member of **JCI Kakani** & **Rotaract Club Rudramati-Babarmahal**
+- ✍️ Currently serving as **Editor (Board Member)** in Rotaract (2025–2026)
+
+---
+
+### 🤝 Let's Connect
+
+- 📬 Email: [pokharel.nishan@outlook.com](mailto:pokharel.nishan@outlook.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/nishan-pokharel)  
+- 👨‍💻 [GitHub](https://github.com/pokharel-nishan)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pokharel-nishan&show_icons=true&theme=github_dark" height="165"/>
@@ -79,12 +133,11 @@
 
 ---
 
-### 📫 Let's Connect
+### 💡 Why Hire Me?
 
-- 💼 [LinkedIn](https://linkedin.com/in/nishan-pokharel)
-- 📬 Email: [pokharel.nishan@outlook.com](mailto:pokharel.nishan@outlook.com)
-- 🌍 Portfolio (Coming Soon…)
+I bring **hands-on experience**, **modern tech expertise**, and a strong sense of **collaboration and ownership**. Whether it’s designing scalable backend systems, shipping high-quality UIs, or building secure microservices — I’m ready to contribute from day one.
+
+🧠 *“I don’t just write code — I craft solutions.”*
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
