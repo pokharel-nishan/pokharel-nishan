@@ -14,7 +14,7 @@
 - 🔧 I’m a **Full-Stack Software Engineer** passionate about designing and building **scalable**, **maintainable**, and **performant** systems—whether backend APIs or frontend interfaces.  
 - 🌐 Skilled in developing and integrating **RESTful APIs**, **GraphQL**, and **gRPC** to enable efficient, **real-time**, and **secure** communication between services and clients.  
 - 💾 Proficient with both **relational databases** (PostgreSQL, MySQL, Oracle) and **NoSQL databases** (MongoDB), with strong focus on **query optimization** and **data modeling** for performance.  
-- ☁️ Comfortable working with **cloud services** like **AWS S3** and containerization tools such as **Docker** for streamlined deployment and **infrastructure automation**.  
+- ☁️ Comfortable working with **cloud services** like **AWS** and containerization tools such as **Docker** for streamlined deployment and **infrastructure automation**.  
 
 ---
 
@@ -65,7 +65,7 @@
 ---
 
 #### ☁️ Cloud Services & DevOps  
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -89,7 +89,7 @@
 #### 🎓 [OpenML](https://github.com/pokharel-nishan/openml)  
 > A no-code Machine Learning platform designed for learners and professionals — no ML expertise required!
 
-🛠 Tech Stack: React 19, Node.js, FastAPI, PostgreSQL, AWS S3, Tailwind CSS  
+🛠 Tech Stack: React 19, Node.js, FastAPI, PostgreSQL, AWS, Tailwind CSS  
 🌐 Live Demo: [final-year-project-w7yk.onrender.com](https://final-year-project-w7yk.onrender.com)  
 💡 Features: Secure auth, custom dataset uploads, ML model training (15+ types), live testing, result visualization.
 
