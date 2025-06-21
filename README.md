@@ -86,7 +86,7 @@
 
 ### 📌 Featured Project
 
-#### 🎓 [OpenML](https://github.com/pokharel-nishan/openml)  
+#### 🎓 [OpenML](https://open-ml.me)  
 > A no-code Machine Learning platform designed for learners and professionals — no ML expertise required!
 
 🛠 Tech Stack: React 19, Node.js, FastAPI, PostgreSQL, AWS, Tailwind CSS  
