@@ -90,7 +90,7 @@
 > A no-code Machine Learning platform designed for learners and professionals — no ML expertise required!
 
 🛠 Tech Stack: React 19, Node.js, FastAPI, PostgreSQL, AWS, Tailwind CSS  
-🌐 Live Demo: [final-year-project-w7yk.onrender.com](https://final-year-project-w7yk.onrender.com)  
+🌐 Live Demo: [open-ml.me](https://open-ml.me)  
 💡 Features: Secure auth, custom dataset uploads, ML model training (15+ types), live testing, result visualization.
 
 
